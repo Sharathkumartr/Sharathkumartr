@@ -1,8 +1,7 @@
-Based on your GitHub repositories, here's an updated version of your profile README to better reflect your projects and skills:
 
----
 
-# Hi 👋, I'm Sharath Kumar
+
+# Hi 👋, I'm Sharath Kumar T R
 
 ### A Passionate Developer and Learner 🚀
 
