@@ -1,43 +1,40 @@
 
 
+# 👋 Hi, I'm Sharath Kumar T R
 
-# Hi 👋, I'm Sharath Kumar T R
+### A Passionate **Java Full Stack Developer** 🚀
 
-### A Passionate Developer and Learner 🚀
+🔭 **Currently Working On:**
 
-🔭 **Currently working on:**
+* **Java Full Stack Development**: Creating robust, scalable applications using Java (Spring Boot), MySQL, HTML, CSS, JavaScript, and React.
 
-- **Full Stack Web Development**: Building responsive and dynamic web applications using React, Node.js, and MongoDB.
+* **Data Structures & Algorithms**: Sharpening problem-solving skills through continuous practice.
 
-- **Data Structures & Algorithms**: Implementing efficient solutions and exploring advanced concepts.
+🌱 **Currently Learning:**
 
-🌱 **Learning:**
+* **Spring Security & REST APIs**: Implementing secure, production-ready applications.
 
-- **Cloud Computing**: Gaining hands-on experience with AWS and Azure services.
+* **Cloud Integration**: Deploying Java apps on platforms like AWS and Azure.
 
-- **Machine Learning**: Exploring algorithms and building predictive models.
+📫 **Get in Touch:**
 
-📫 **How to reach me:**
-
-- ✉️ [sharathkumartr2001@gmail.com](mailto:sharathkumartr2001@gmail.com)
-
-- 🌐 [LinkedIn](https://linkedin.com/in/sharathkumar22) | [GitHub](https://github.com/Sharathkumartr)
+* ✉️ [sharathkumartr2001@gmail.com](mailto:sharathkumartr2001@gmail.com)
+* 🌐 [LinkedIn](https://linkedin.com/in/sharathkumar22) | [GitHub](https://github.com/Sharathkumartr)
 
 ---
 
-## ⚙️ **Languages and Tools:**
+## ⚙️ **Languages & Tools:**
 
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
 ---
@@ -51,47 +48,38 @@
 
 ---
 
-## 💡 **Certifications:**
+## 🏅 **Certifications:**
 
-- **HackerRank SQL Certified**
-
-- **HackerRank Python Certified**
-
-- **Machine Learning Algorithms (Basics)**
-
-- **Power BI for Beginners**
+* HackerRank SQL (Basic)
+* HackerRank Python (Basic)
+* Java Programming (Core & OOPs)
+* Machine Learning Algorithms (Basics)
+* Power BI for Beginners
 
 ---
 
-## 📂 **Highlighted Projects:**
+## 🚀 **Highlighted Projects:**
 
-- **Full Stack Web Application**:
+* **🛒 Mini Flipkart – Java Full Stack E-Commerce App**
+  Built with Spring Boot, Thymeleaf, MySQL, and includes user login, product management, and order tracking.
+  *Coming Soon*
 
-  - Developed a responsive web application using React for the frontend and Node.js with MongoDB for the backend.
+* **🚑 Ambulance Hiring Management System**
+  A full-stack Java project using MySQL for efficient emergency response management.
+  
 
-  - [Source Code](https://github.com/Sharath-Kumar-V/Full_Stack)
+* **🍽️ Restaurant Website**
+  Frontend project showcasing UI/UX skills using HTML, CSS, Bootstrap, and JS.
 
-- **Ambulance Hiring Management System**:
 
-  - A full-stack Java project with MySQL database for emergency response.
-
-  - [Source Code](https://github.com/Sharathkumartr/Ambulance-Hiring-System)
-
-- **Restaurant Website**:
-
-  - A responsive website using HTML, CSS, JavaScript, and Bootstrap.
-
-  - [Source Code](https://github.com/Sharathkumartr/Restaurant-Website)
-
-- **Attendance Management System**:
-
-  - A Python-based application integrated with SQLite for data tracking.
-
-  - [Source Code](https://github.com/Sharathkumartr/Attendance-Management)
+* **📅 Attendance Management System**
+  A desktop-based app built using Python & SQLite to track student attendance.
+  
 
 ---
 
-✨ Thanks for visiting my profile! Let's connect and build something amazing.
+✨ Thanks for visiting my profile! Let's collaborate and build impactful Java applications together.
 
 ---
 
+Would you like a downloadable `.md` version of this?
