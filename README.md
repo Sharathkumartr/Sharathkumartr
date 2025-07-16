@@ -82,4 +82,4 @@
 
 ---
 
-Would you like a downloadable `.md` version of this?
+
